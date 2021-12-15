@@ -1,8 +1,7 @@
 # FoDS_Project_2021
-This is a 5th sem Data Science project developed by Lavanya Sirisha, Vinamratha Pattar
-and Tanmayi Doddapaneni. The project is essentially about using data mining and visualization techniques 
-to extract valid information from the agriculture data collected. This can be of immense use to anyone 
-who works in the agricultural sector.
+This is a 5th sem Data Science project developed by Lavanya Sirisha. The project is essentially about using
+data mining and visualization techniques to extract valid information from the agriculture data collected.
+This can be of immense use to anyone who works in the agricultural sector.
 The visualized data can give suggestions regarding favorable crops and make future predictions based on the
 supply-demand gap, owing to various factors. The objectives we identified include-
 1. Finding the production, area usage trends of different crops, etc. over the past few years and studying
